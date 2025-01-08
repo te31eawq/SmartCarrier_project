@@ -32,21 +32,21 @@
 
 - 아키텍쳐
   
-![아키텍쳐](images/아키텍쳐.png)
+![아키텍쳐](images/아키텍쳐.jpg)
 
 -구성도
 
-![구성도](images/구성도.png)
+![구성도](images/구성도.jpg)
 
 - flowchart
   
-![flowchart](images/flow_chart.drawio.png)
+![flowchart](images/flow_chart.drawio.jpg)
 
 ---
 
 ## 개발 진행 상황
 
-![간트차트](images/ganttchart.png)
+![간트차트](images/ganttchart.jpg)
 
 ---
 
